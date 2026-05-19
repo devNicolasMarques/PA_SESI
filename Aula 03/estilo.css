@@ -1,0 +1,26 @@
+/* div{
+    background-color: yellow;
+    color: red;
+} */
+
+.QuadradoRosa{
+    border-radius: 10px;
+    color: white;
+    width: 250px; /*Largura*/
+    height: 250px; /*Altura*/
+    background-color: #ae1e9d;
+    margin: 20px 10px 30px 40px;
+    padding: 20px 0px 0px 0px;
+}
+
+.QuadradoLaranja{
+    width: 250px; /*Largura*/
+    height: 250px; /*Altura*/
+    background-color: #f86115;
+}
+
+.QuadradoVerde{
+    width: 250px;
+    height: 250px;
+    background-color: #11de4b;
+}
